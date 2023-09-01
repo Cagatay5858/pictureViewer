@@ -1,0 +1,10 @@
+C:\Users\YASİN\Desktop\pictureViever\pictureViever\pictureViever\bin\Debug\pictureViever.exe.config
+C:\Users\YASİN\Desktop\pictureViever\pictureViever\pictureViever\bin\Debug\pictureViever.exe
+C:\Users\YASİN\Desktop\pictureViever\pictureViever\pictureViever\bin\Debug\pictureViever.pdb
+C:\Users\YASİN\Desktop\pictureViever\pictureViever\pictureViever\obj\Debug\pictureViever.csproj.AssemblyReference.cache
+C:\Users\YASİN\Desktop\pictureViever\pictureViever\pictureViever\obj\Debug\pictureViever.Form1.resources
+C:\Users\YASİN\Desktop\pictureViever\pictureViever\pictureViever\obj\Debug\pictureViever.Properties.Resources.resources
+C:\Users\YASİN\Desktop\pictureViever\pictureViever\pictureViever\obj\Debug\pictureViever.csproj.GenerateResource.cache
+C:\Users\YASİN\Desktop\pictureViever\pictureViever\pictureViever\obj\Debug\pictureViever.csproj.CoreCompileInputs.cache
+C:\Users\YASİN\Desktop\pictureViever\pictureViever\pictureViever\obj\Debug\pictureViever.exe
+C:\Users\YASİN\Desktop\pictureViever\pictureViever\pictureViever\obj\Debug\pictureViever.pdb
